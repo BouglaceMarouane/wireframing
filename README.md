@@ -101,7 +101,7 @@ For this task, I created a **multi-screen login** flow wireframe inspired by Air
 
 | Home/Explore | Profile/Login | Login Options | Confirmation | Notifications |
 |:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|
-| <img src="https://github.com/BouglaceMarouane/wireframing/blob/0d5401738544e6a81a30d7d6e0cfd72a4f57cff4/assests/Login.png" alt="Home/Explore Screen" width="200"/> | <img src="URL-to-login.png" alt="Profile/Login Screen" width="200"/> | <img src="URL-to-login-options.png" alt="Login Options Screen" width="200"/> | <img src="URL-to-confirmation.png" alt="Confirmation Screen" width="200"/> | <img src="URL-to-notifications.png" alt="Notification Opt-in Screen" width="200"/> |
+| <img src="https://github.com/BouglaceMarouane/wireframing/blob/0d5401738544e6a81a30d7d6e0cfd72a4f57cff4/assests/Login.png" alt="Home/Explore Screen" width="200"/> | <img src="https://github.com/BouglaceMarouane/wireframing/blob/40851864c9a025726cb584d65a763ea9057a5a8d/assests/Login%20(1).png" alt="Profile/Login Screen" width="200"/> | <img src="https://github.com/BouglaceMarouane/wireframing/blob/40851864c9a025726cb584d65a763ea9057a5a8d/assests/Login%20(2).png" alt="Login Options Screen" width="200"/> | <img src="https://github.com/BouglaceMarouane/wireframing/blob/40851864c9a025726cb584d65a763ea9057a5a8d/assests/Login%20(3).png" alt="Confirmation Screen" width="200"/> | <img src="https://github.com/BouglaceMarouane/wireframing/blob/40851864c9a025726cb584d65a763ea9057a5a8d/assests/Login%20(4).png" alt="Notification Opt-in Screen" width="200"/> |
 | 🏠 *Home/Explore – Main screen with navigation tabs.* | 🔑 *Profile/Login – Bold login button with sign-up option.* | 📱 *Login Options – Phone input, email/social login.* | ✅ *Confirmation – Code verification via SMS.* | 🔔 *Notifications – Enable or skip notifications.* |
 
 
@@ -154,6 +154,7 @@ Tip: Use community UI kits (wireframe shapes, form controls) to move fast while 
 5. **Impact:** In later prototype tests, **task completion time dropped by \~30%** and **errors decreased**. Dev handoff was smoother due to explicit validation and empty state notes.
 
 **Takeaway:** Wireframing exposed usability risks early, enabling targeted fixes before investing in high‑fidelity design or code.
+
 
 
 
