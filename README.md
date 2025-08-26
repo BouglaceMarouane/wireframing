@@ -76,25 +76,28 @@ The wireframes shown in this project are **High-Fidelity (Hi-Fi) Wireframes**.
 
 ---
 
-## 2b) Identify the Wireframe Type (My Example)
+## 2b) Identify the Wireframe Type
 
-For this project, I created a simple login page wireframe in Figma. **It contains:**
+For this task, I created a **multi-screen login** flow wireframe inspired by Airbnb’s mobile app design.
 
-- A logo placeholder at the top
-- Two input fields (email & password)
-- A primary CTA button (Login)
-- A small link for “Forgot Password?”
-- Classification: This is a Low-Fidelity Wireframe
+[👉 View my Figma file here](https://www.figma.com/design/tnJAJXaTAsnq2GBW9wmgVr/Login-Page-wireframe-airbnb?node-id=0-1&t=JLisF3GNbWe3peJ3-1)
 
-Reasons:
+*Description of the Wireframe*
 
-- Uses only grayscale shapes and placeholders — no colors, images, or branding.
-- Focuses on structure (form placement, button alignment) rather than visual style.
-- Easy to change quickly during feedback rounds without worrying about polished design.
+- A profile/login entry point from the navigation bar.
+- A login/sign-up screen with options for phone number, email, or social accounts (Apple, Google, Facebook).
+- A verification code screen for SMS-based authentication.
+- A notification opt-in screen prompting the user to allow or skip.
+- Clean, minimal structure — focusing on the flow rather than visuals.
 
-[👉 View my Figma file here](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&t=yjjCrjAlgZlq3kNC-1)
+*Classification: Low-Fidelity Wireframe*
+*Reasons*:
 
-Preview:
+- The design focuses on layout and flow across multiple screens, not polished visuals.
+- It uses simple shapes, placeholders, and text without brand colors or custom UI elements.
+- It’s aimed at testing user journey and usability quickly, before moving to high-fidelity design.
+
+📌 Wireframe Preview:
 
 ---
 
@@ -145,6 +148,7 @@ Tip: Use community UI kits (wireframe shapes, form controls) to move fast while 
 5. **Impact:** In later prototype tests, **task completion time dropped by \~30%** and **errors decreased**. Dev handoff was smoother due to explicit validation and empty state notes.
 
 **Takeaway:** Wireframing exposed usability risks early, enabling targeted fixes before investing in high‑fidelity design or code.
+
 
 
 
