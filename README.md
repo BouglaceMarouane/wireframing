@@ -47,21 +47,32 @@ Represents interactive behaviors and states (form validation, empty states, load
 
 ---
 
-## 2) Types of Wireframes
+## 2) Types of Wireframes  
 
-### Low‑Fidelity (Lo‑Fi)
+### Low-Fidelity (Lo-Fi)  
+- **Looks:** Rough, sketch-like boxes and labels; grayscale; minimal detail  
+- **Use When:** Exploring ideas, brainstorming, aligning on layout and flows  
+- **Pros:** Fast to make/change; encourages experimentation and feedback  
 
-* **Looks:** Rough, sketch‑like boxes and labels; grayscale; minimal detail
-* **Use When:** Exploring ideas, brainstorming, aligning on layout and flows
-* **Pros:** Fast to make/change; encourages experimentation and feedback
+### High-Fidelity (Hi-Fi)  
+- **Looks:** Precise spacing, real copy, near-final layout; often uses actual colors, fonts, and images  
+- **Use When:** Detailing interactions, preparing for usability testing, and handoff to design/engineering  
+- **Pros:** Clearer behavior, fewer ambiguities for implementation  
 
-### High‑Fidelity (Hi‑Fi)
+> **Rule of thumb:** Start lo-fi to diverge/explore; move to hi-fi to converge/validate.  
 
-* **Looks:** Precise spacing, real copy, near‑final layout; sometimes component‑accurate
-* **Use When:** Detailing interactions, preparing for usability testing, handoff to design/engineering
-* **Pros:** Clearer behavior, fewer ambiguities for implementation
+---
 
-> **Rule of thumb:** Start lo‑fi to diverge/explore; move to hi‑fi to converge/validate.
+## 2a) Type of Wireframe Used in This Project  
+
+The wireframes shown in this project are **High-Fidelity (Hi-Fi) Wireframes**.  
+
+- They include **real images, colors, icons, and UI components**.  
+- The layouts are **clean and close to the final product design**.  
+- This makes them ideal for **usability testing** and for **handoff to developers**.  
+
+🔗 **View the full Figma project here:**  
+[Project Airbnb on Figma](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&t=yjjCrjAlgZlq3kNC-1)
 
 ---
 
@@ -126,5 +137,6 @@ Tip: Use community UI kits (wireframe shapes, form controls) to move fast while 
 5. **Impact:** In later prototype tests, **task completion time dropped by \~30%** and **errors decreased**. Dev handoff was smoother due to explicit validation and empty state notes.
 
 **Takeaway:** Wireframing exposed usability risks early, enabling targeted fixes before investing in high‑fidelity design or code.
+
 
 
