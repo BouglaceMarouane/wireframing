@@ -76,17 +76,25 @@ The wireframes shown in this project are **High-Fidelity (Hi-Fi) Wireframes**.
 
 ---
 
-## 2b) Identify the Wireframe Type (Example)
+## 2b) Identify the Wireframe Type (My Example)
 
-> Replace the example below with your own screenshot or description if required by your reviewer.
+For this project, I created a simple login page wireframe in Figma. **It contains:**
 
-**Example assessment:**
+- A logo placeholder at the top
+- Two input fields (email & password)
+- A primary CTA button (Login)
+- A small link for “Forgot Password?”
+- Classification: This is a Low-Fidelity Wireframe
 
-* Uses grayscale boxes and placeholder text
-* Omits final imagery and color system
-* Focuses on structure and labels, not styling
+Reasons:
 
-**Conclusion:** This is a **Low‑Fidelity** wireframe.
+- Uses only grayscale shapes and placeholders — no colors, images, or branding.
+- Focuses on structure (form placement, button alignment) rather than visual style.
+- Easy to change quickly during feedback rounds without worrying about polished design.
+
+[👉 View my Figma file here](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&t=yjjCrjAlgZlq3kNC-1)
+
+Preview:
 
 ---
 
@@ -137,6 +145,7 @@ Tip: Use community UI kits (wireframe shapes, form controls) to move fast while 
 5. **Impact:** In later prototype tests, **task completion time dropped by \~30%** and **errors decreased**. Dev handoff was smoother due to explicit validation and empty state notes.
 
 **Takeaway:** Wireframing exposed usability risks early, enabling targeted fixes before investing in high‑fidelity design or code.
+
 
 
 
