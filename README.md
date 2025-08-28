@@ -4,6 +4,9 @@
 
 ---
 
+
+
+
 ## 0) Introduction to Wireframing
 
 Wireframing is the process of creating a **blueprint (skeletal layout)** of a page, screen, or flow before investing in polished UI design or code. It clarifies **what goes where**, **how users move**, and **what each element does**, enabling teams to validate ideas early, reduce rework, and ship usable products faster.
@@ -154,6 +157,7 @@ Tip: Use community UI kits (wireframe shapes, form controls) to move fast while 
 5. **Impact:** In later prototype tests, **task completion time dropped by \~30%** and **errors decreased**. Dev handoff was smoother due to explicit validation and empty state notes.
 
 **Takeaway:** Wireframing exposed usability risks early, enabling targeted fixes before investing in high‑fidelity design or code.
+
 
 
 
