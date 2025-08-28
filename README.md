@@ -1,6 +1,8 @@
 # Figmify: From Wireframe to Prototype
 
 > A concise, developer‑friendly primer on wireframing and how to move from sketches to testable prototypes.
+>
+> 
 
 ---
 
@@ -154,6 +156,7 @@ Tip: Use community UI kits (wireframe shapes, form controls) to move fast while 
 5. **Impact:** In later prototype tests, **task completion time dropped by \~30%** and **errors decreased**. Dev handoff was smoother due to explicit validation and empty state notes.
 
 **Takeaway:** Wireframing exposed usability risks early, enabling targeted fixes before investing in high‑fidelity design or code.
+
 
 
 
